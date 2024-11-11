@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp",
+        "utility": "cpp"
+    },
+    "[python]": {
+          "editor.rulers": [100]
+    }
+}
